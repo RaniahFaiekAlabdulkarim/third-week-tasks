@@ -9,4 +9,4 @@ ros noetic move it.
 ros noetic joint state publisher 
 the gazebo control'
 and finally ros controllers.
-I launched ros with this command: roslaunch robot_arm_pkg check_motors.launch, and it worked as showed in the output screenshot
+I launched ros with this command: roslaunch robot_arm_pkg check_motors.launch, and it worked as showed in the output screenshot. screenshot is in issues.
